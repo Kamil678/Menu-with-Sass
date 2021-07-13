@@ -34,4 +34,8 @@ ul li a {
   -webkit-transition: .2s;
   transition: .2s;
 }
+
+ul li a:hover {
+  background-color: red;
+}
 /*# sourceMappingURL=style.css.map */
